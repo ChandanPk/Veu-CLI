@@ -6,7 +6,7 @@ new Vue({
         name: "Vijay maaliya",
         greet: ""
     },
-    //object of functions or methods 
+    //object with functions or methods 
     methods: {
         greeting(time){
             return "Welcome " + this.name + ", happy " + time;
